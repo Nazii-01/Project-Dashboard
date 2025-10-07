@@ -14,7 +14,7 @@ A simple and intuitive project management dashboard built with React that helps 
 
 ## Screenshots
 
-![Dashboard Overview](screenshot.png)
+![Dashboard Overview](images/screenshot.png)
 
 ## Technologies Used
 
