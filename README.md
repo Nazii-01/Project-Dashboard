@@ -127,47 +127,8 @@ The dashboard displays three cards at the top showing:
 - Number of In Progress tasks
 - Number of Completed tasks
 
-## Deployment
 
-### Deploy to Netlify (Easiest)
 
-1. Build your app:
-```bash
-npm run build
-```
-
-2. Go to [netlify.com/drop](https://app.netlify.com/drop)
-3. Drag and drop your `build` folder
-4. Get your live URL!
-
-### Deploy to Vercel
-
-```bash
-npm install -g vercel
-npm run build
-vercel
-```
-
-### Deploy to GitHub Pages
-
-1. Install gh-pages:
-```bash
-npm install -D gh-pages
-```
-
-2. Add to `package.json`:
-```json
-"homepage": "https://yourusername.github.io/project-dashboard",
-"scripts": {
-  "predeploy": "npm run build",
-  "deploy": "gh-pages -d build"
-}
-```
-
-3. Deploy:
-```bash
-npm run deploy
-```
 
 ## Project Structure
 
