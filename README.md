@@ -12,7 +12,7 @@ A simple and intuitive project management dashboard built with React that helps 
 -  **Modern UI** - Clean and responsive design with Tailwind CSS
 -  **Real-time Updates** - Instantly see changes reflected in the dashboard
 
-## Screenshots
+## Screenshot
 
 ![Dashboard Overview](images/screenshot.png)
 
